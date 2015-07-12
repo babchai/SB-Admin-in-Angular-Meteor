@@ -7,6 +7,7 @@ angular.module('sbAdminApp',[
   'ngAnimate',
   'ngSanitize',
   'toggle-switch',
+  'chart.js',
 
   'oc.lazyLoad'
 ]);

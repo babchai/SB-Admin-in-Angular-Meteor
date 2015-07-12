@@ -9,7 +9,6 @@ autopublish
 insecure
 urigo:angular
 bootstrap
-mrt:bootstrap-3
 urigo:angular-ui-router
 planettraining:oclazyload
 selchenkov:angular-bootstrap-ui
