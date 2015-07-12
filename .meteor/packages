@@ -8,10 +8,8 @@ meteor-platform
 autopublish
 insecure
 urigo:angular
-bootstrap
 urigo:angular-ui-router
 planettraining:oclazyload
-selchenkov:angular-bootstrap-ui
 angular:angular-animate
 angular:angular-cookies
 angular:angular-resource
