@@ -1,0 +1,1 @@
+Migrating SB Angularjs Admin Theme (https://github.com/start-angular/sb-admin-angular) into Meteor Angular framework (https://github.com/Urigo/meteor-angular-socially)
